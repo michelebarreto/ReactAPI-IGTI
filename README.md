@@ -1,7 +1,7 @@
 # Consumindo API com Bandeiras dos Países com React
 
 
-<h2>🛠 Tecnologias </h2>
+<h2>🛠 Tecnologias Usadas</h2>
 
 * React
 * API Restcountries
