@@ -1,4 +1,18 @@
+# Consumindo API com Bandeiras dos Países com React
+
+
+<h2>🛠 Tecnologias </h2>
+
+* React
+* API Restcountries
+
+
+![Apresentação](https://media.giphy.com/media/YvQUpvX7bXNTlg1TrB/giphy.gif)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
